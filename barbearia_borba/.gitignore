@@ -1,0 +1,10 @@
+# Ignorar arquivos compilados
+__pycache__/
+
+# Ignorar o arquivo de configurações sensíveis
+barbearia_borba/barbearia_borba/settings.py
+
+# Ignorar o arquivo de configurações sensíveis
+barbearia_borba/barbearia_borba/settings.py
+
+
